@@ -5,7 +5,7 @@
 			"name": "preload"
 		},
 		{
-			"keys": "ball_png,bar_png,btnExit_png,btnNextLevel_png,btnStart_png,star_png,egret_icon_png,description_json,BackGround_png,qiu1_png,qiu2_png,qiu3_png,qiu4_png,qiu5_png,help_png,rank_png,setting_png,sound_png,bgm_mp3,BtnEffect_mp3,more_png,logo_png",
+			"keys": "ball_png,bar_png,btnExit_png,btnNextLevel_png,btnStart_png,star_png,egret_icon_png,description_json,BackGround_png,qiu1_png,qiu2_png,qiu3_png,qiu4_png,qiu5_png,help_png,rank_png,setting_png,sound_png,bgm_mp3,BtnEffect_mp3,more_png,logo_png,scoreBG_png",
 			"name": "BallBall"
 		}
 	],
@@ -239,6 +239,11 @@
 			"url": "assets/BallBall/logo.png",
 			"type": "image",
 			"name": "logo_png"
+		},
+		{
+			"url": "assets/BallBall/scoreBG.png",
+			"type": "image",
+			"name": "scoreBG_png"
 		}
 	]
 }
